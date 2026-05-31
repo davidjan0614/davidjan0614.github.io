@@ -1,32 +1,127 @@
 <!DOCTYPE html>
-<html>
+<html lang="zh-TW">
 <head>
-    <title>David Market Watch</title>
+  <meta charset="UTF-8">
+  <title>David Market Watch</title>
+  <style>
+    body {
+      font-family: Arial, "Microsoft JhengHei", sans-serif;
+      background: #f4f6f8;
+      color: #222;
+      padding: 30px;
+    }
+    .card {
+      max-width: 760px;
+      margin: auto;
+      background: white;
+      padding: 28px;
+      border-radius: 14px;
+      box-shadow: 0 4px 18px rgba(0,0,0,0.08);
+    }
+    h1 {
+      margin-top: 0;
+      color: #1f2937;
+    }
+    .sub {
+      color: #666;
+      margin-bottom: 24px;
+    }
+    .updated {
+      background: #eef2ff;
+      padding: 10px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+    th, td {
+      padding: 12px;
+      border-bottom: 1px solid #ddd;
+      text-align: left;
+    }
+    th {
+      background: #f1f5f9;
+    }
+    .up {
+      color: #0a8f3c;
+      font-weight: bold;
+    }
+    .down {
+      color: #c0392b;
+      font-weight: bold;
+    }
+    .bot {
+      margin-top: 24px;
+      padding: 14px;
+      background: #ecfdf5;
+      border-radius: 8px;
+    }
+  </style>
 </head>
 <body>
 
-<h1>David Market Watch</h1>
+<div class="card">
+  <h1>David Market Watch</h1>
+  <p class="sub">David 的全球市場觀察站</p>
 
-<p>歡迎來到 David 的全球市場觀察站。</p>
+  <div class="updated">
+    更新時間：<span id="updated">讀取中...</span>
+  </div>
 
-<h2>功能</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>名稱</th>
+        <th>價格</th>
+        <th>漲跌</th>
+      </tr>
+    </thead>
+    <tbody id="market-body">
+      <tr>
+        <td colspan="3">資料讀取中...</td>
+      </tr>
+    </tbody>
+  </table>
 
-<ul>
-<li>台股監控</li>
-<li>美股監控</li>
-<li>AI概念股</li>
-<li>ETF追蹤</li>
-<li>銅價監控</li>
-<li>天然氣監控</li>
-</ul>
+  <div class="bot">
+    Telegram Bot：<strong>tw_stock_watch_bot</strong>
+  </div>
 
-<h2>Telegram Bot</h2>
+  <p>作者：David Jan</p>
+</div>
 
-<p>tw_stock_watch_bot</p>
+<script>
+fetch("market.json")
+  .then(response => response.json())
+  .then(data => {
+    document.getElementById("updated").textContent = data.updated;
 
-<h2>作者</h2>
+    const tbody = document.getElementById("market-body");
+    tbody.innerHTML = "";
 
-<p>David Jan</p>
+    data.items.forEach(item => {
+      const tr = document.createElement("tr");
+
+      let changeClass = "";
+      if (item.change.startsWith("+")) changeClass = "up";
+      if (item.change.startsWith("-")) changeClass = "down";
+
+      tr.innerHTML = `
+        <td>${item.name}</td>
+        <td>${item.price}</td>
+        <td class="${changeClass}">${item.change}</td>
+      `;
+
+      tbody.appendChild(tr);
+    });
+  })
+  .catch(error => {
+    document.getElementById("market-body").innerHTML =
+      "<tr><td colspan='3'>資料讀取失敗</td></tr>";
+  });
+</script>
 
 </body>
 </html>
