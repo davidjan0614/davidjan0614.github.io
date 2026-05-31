@@ -1,0 +1,30 @@
+{
+  "updated": "2026-05-31 15:00",
+  "items": [
+    {
+      "name": "台積電",
+      "price": "2355.00",
+      "change": "+60.00"
+    },
+    {
+      "name": "鴻海",
+      "price": "289.00",
+      "change": "+26.00"
+    },
+    {
+      "name": "QQQ AI ETF",
+      "price": "735.60",
+      "change": ""
+    },
+    {
+      "name": "NVIDIA",
+      "price": "214.25",
+      "change": ""
+    },
+    {
+      "name": "銅價",
+      "price": "13655.50",
+      "change": ""
+    }
+  ]
+}
