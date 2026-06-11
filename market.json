@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12 06:13",
+  "updated": "2026-06-12 07:54",
   "items": [
     {
       "name": "LME銅價",
@@ -9,26 +9,26 @@
     },
     {
       "name": "黃金",
-      "price": "4230.60",
-      "change": "+116.60",
+      "price": "4239.20",
+      "change": "+125.20",
       "unit": "美元/盎司"
     },
     {
       "name": "白銀",
-      "price": "67.42",
-      "change": "+3.42",
+      "price": "67.64",
+      "change": "+3.63",
       "unit": "美元/盎司"
     },
     {
       "name": "原油",
-      "price": "85.49",
-      "change": "-2.22",
+      "price": "86.02",
+      "change": "-1.69",
       "unit": "美元/桶"
     },
     {
       "name": "天然氣",
       "price": "3.08",
-      "change": "-0.00",
+      "change": "-0.01",
       "unit": "美元/MMBtu"
     },
     {
@@ -126,90 +126,6 @@
       "price": "25.84",
       "change": "-0.48",
       "unit": "HKD"
-    },
-    {
-      "name": "台積電",
-      "price": "2250.00",
-      "change": "+0.00",
-      "unit": "TWD",
-      "code": "2330"
-    },
-    {
-      "name": "鴻海",
-      "price": "258.50",
-      "change": "-4.50",
-      "unit": "TWD",
-      "code": "2317"
-    },
-    {
-      "name": "聯發科",
-      "price": "4085.00",
-      "change": "-70.00",
-      "unit": "TWD",
-      "code": "2454"
-    },
-    {
-      "name": "台達電",
-      "price": "2160.00",
-      "change": "-40.00",
-      "unit": "TWD",
-      "code": "2308"
-    },
-    {
-      "name": "廣達",
-      "price": "370.00",
-      "change": "-10.50",
-      "unit": "TWD",
-      "code": "2382"
-    },
-    {
-      "name": "中華電",
-      "price": "145.00",
-      "change": "+1.00",
-      "unit": "TWD",
-      "code": "2412"
-    },
-    {
-      "name": "富邦金",
-      "price": "125.50",
-      "change": "+3.00",
-      "unit": "TWD",
-      "code": "2881"
-    },
-    {
-      "name": "中信金",
-      "price": "67.50",
-      "change": "-0.70",
-      "unit": "TWD",
-      "code": "2891"
-    },
-    {
-      "name": "國泰金",
-      "price": "100.50",
-      "change": "+0.60",
-      "unit": "TWD",
-      "code": "2882"
-    },
-    {
-      "name": "台塑化",
-      "price": "51.40",
-      "change": "+0.40",
-      "unit": "TWD",
-      "code": "6505"
-    },
-    {
-      "name": "中鋼",
-      "price": "18.55",
-      "change": "-0.15",
-      "unit": "TWD",
-      "code": "2002"
-    },
-    {
-      "name": "昶昕",
-      "price": "80.00",
-      "change": "-0.40",
-      "unit": "TWD",
-      "code": "8438"
     }
   ]
 }
