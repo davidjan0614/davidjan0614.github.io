@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08 02:15",
+  "updated": "2026-07-08 04:15",
   "items": [
     {
       "name": "LME銅價",
@@ -9,26 +9,26 @@
     },
     {
       "name": "黃金",
-      "price": "4153.00",
-      "change": "-14.50",
+      "price": "4125.60",
+      "change": "-41.90",
       "unit": "美元/盎司"
     },
     {
       "name": "白銀",
-      "price": "61.38",
-      "change": "-0.95",
+      "price": "60.73",
+      "change": "-1.60",
       "unit": "美元/盎司"
     },
     {
       "name": "原油",
-      "price": "70.48",
-      "change": "+1.93",
+      "price": "72.00",
+      "change": "+3.45",
       "unit": "美元/桶"
     },
     {
       "name": "天然氣",
-      "price": "3.27",
-      "change": "+0.03",
+      "price": "3.26",
+      "change": "+0.02",
       "unit": "美元/MMBtu"
     },
     {
@@ -45,80 +45,80 @@
     },
     {
       "name": "小麥",
-      "price": "617.25",
-      "change": "+3.25",
+      "price": "617.75",
+      "change": "+3.75",
       "unit": "美分/蒲式耳"
     },
     {
       "name": "玉米",
-      "price": "464.00",
-      "change": "+6.25",
+      "price": "463.50",
+      "change": "+5.75",
       "unit": "美分/蒲式耳"
     },
     {
       "name": "大豆",
-      "price": "1195.75",
-      "change": "+3.50",
+      "price": "1196.50",
+      "change": "+4.25",
       "unit": "美分/蒲式耳"
     },
     {
       "name": "Apple",
-      "price": "312.20",
-      "change": "-0.46",
+      "price": "310.66",
+      "change": "-2.00",
       "unit": "USD"
     },
     {
       "name": "Microsoft 微軟",
-      "price": "392.75",
-      "change": "+6.01",
-      "unit": "USD"
-    },
-    {
-      "name": "Google",
-      "price": "366.37",
-      "change": "+1.47",
-      "unit": "USD"
-    },
-    {
-      "name": "Meta AI",
-      "price": "619.13",
-      "change": "+18.84",
-      "unit": "USD"
-    },
-    {
-      "name": "特斯拉",
-      "price": "406.93",
-      "change": "-12.84",
-      "unit": "USD"
-    },
-    {
-      "name": "NVIDIA 黃仁勳",
-      "price": "197.65",
+      "price": "388.84",
       "change": "+2.10",
       "unit": "USD"
     },
     {
+      "name": "Google",
+      "price": "363.62",
+      "change": "-1.28",
+      "unit": "USD"
+    },
+    {
+      "name": "Meta AI",
+      "price": "615.58",
+      "change": "+15.29",
+      "unit": "USD"
+    },
+    {
+      "name": "特斯拉",
+      "price": "402.90",
+      "change": "-16.87",
+      "unit": "USD"
+    },
+    {
+      "name": "NVIDIA 黃仁勳",
+      "price": "196.93",
+      "change": "+1.38",
+      "unit": "USD"
+    },
+    {
       "name": "QQQ AI ETF",
-      "price": "713.22",
-      "change": "-9.60",
+      "price": "709.43",
+      "change": "-13.39",
       "unit": "USD"
     },
     {
       "name": "Toyota 豐田",
-      "price": "180.23",
-      "change": "+0.43",
+      "price": "179.43",
+      "change": "-0.37",
       "unit": "USD"
     },
     {
       "name": "Ford 福特",
-      "price": "13.61",
-      "change": "-0.22",
+      "price": "13.56",
+      "change": "-0.27",
       "unit": "USD"
     },
     {
       "name": "Honda 本田",
-      "price": "28.57",
-      "change": "-1.06",
+      "price": "28.50",
+      "change": "-1.13",
       "unit": "USD"
     },
     {
