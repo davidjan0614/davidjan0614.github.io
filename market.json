@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10 04:04",
+  "updated": "2026-07-10 05:38",
   "items": [
     {
       "name": "LME銅價",
@@ -9,20 +9,20 @@
     },
     {
       "name": "黃金",
-      "price": "4131.80",
-      "change": "+49.40",
+      "price": "4132.60",
+      "change": "+50.20",
       "unit": "美元/盎司"
     },
     {
       "name": "白銀",
-      "price": "60.33",
-      "change": "+1.79",
+      "price": "60.35",
+      "change": "+1.81",
       "unit": "美元/盎司"
     },
     {
       "name": "原油",
-      "price": "71.83",
-      "change": "-1.69",
+      "price": "71.81",
+      "change": "-1.71",
       "unit": "美元/桶"
     },
     {
@@ -99,20 +99,20 @@
     },
     {
       "name": "QQQ AI ETF",
-      "price": "723.23",
-      "change": "+11.79",
+      "price": "723.28",
+      "change": "+11.84",
       "unit": "USD"
     },
     {
       "name": "Toyota 豐田",
-      "price": "174.35",
-      "change": "-2.80",
+      "price": "174.32",
+      "change": "-2.83",
       "unit": "USD"
     },
     {
       "name": "Ford 福特",
-      "price": "13.62",
-      "change": "+0.12",
+      "price": "13.61",
+      "change": "+0.11",
       "unit": "USD"
     },
     {
