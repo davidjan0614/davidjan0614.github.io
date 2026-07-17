@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18 03:47",
+  "updated": "2026-07-18 04:36",
   "items": [
     {
       "name": "LME銅價",
@@ -9,26 +9,26 @@
     },
     {
       "name": "黃金",
-      "price": "4012.60",
-      "change": "+20.50",
+      "price": "4014.30",
+      "change": "+22.20",
       "unit": "美元/盎司"
     },
     {
       "name": "白銀",
-      "price": "56.37",
-      "change": "+0.18",
+      "price": "56.20",
+      "change": "+0.02",
       "unit": "美元/盎司"
     },
     {
       "name": "原油",
-      "price": "81.21",
-      "change": "+2.93",
+      "price": "81.67",
+      "change": "+3.39",
       "unit": "美元/桶"
     },
     {
       "name": "天然氣",
-      "price": "2.91",
-      "change": "+0.05",
+      "price": "2.92",
+      "change": "+0.07",
       "unit": "美元/MMBtu"
     },
     {
@@ -63,62 +63,62 @@
     },
     {
       "name": "Apple",
-      "price": "333.77",
-      "change": "+0.51",
+      "price": "333.74",
+      "change": "+0.48",
       "unit": "USD"
     },
     {
       "name": "Microsoft 微軟",
-      "price": "395.15",
-      "change": "-5.95",
+      "price": "393.82",
+      "change": "-7.28",
       "unit": "USD"
     },
     {
       "name": "Google",
-      "price": "344.85",
-      "change": "-8.96",
+      "price": "346.12",
+      "change": "-7.69",
       "unit": "USD"
     },
     {
       "name": "Meta AI",
-      "price": "643.09",
-      "change": "-21.45",
+      "price": "646.01",
+      "change": "-18.53",
       "unit": "USD"
     },
     {
       "name": "特斯拉",
-      "price": "381.71",
-      "change": "-9.35",
+      "price": "380.84",
+      "change": "-10.22",
       "unit": "USD"
     },
     {
       "name": "NVIDIA 黃仁勳",
-      "price": "203.19",
-      "change": "-4.22",
+      "price": "202.81",
+      "change": "-4.59",
       "unit": "USD"
     },
     {
       "name": "QQQ AI ETF",
-      "price": "696.54",
-      "change": "-9.40",
+      "price": "695.33",
+      "change": "-10.61",
       "unit": "USD"
     },
     {
       "name": "Toyota 豐田",
-      "price": "178.16",
-      "change": "-1.59",
+      "price": "177.61",
+      "change": "-2.15",
       "unit": "USD"
     },
     {
       "name": "Ford 福特",
-      "price": "14.30",
-      "change": "+0.11",
+      "price": "14.23",
+      "change": "+0.04",
       "unit": "USD"
     },
     {
       "name": "Honda 本田",
-      "price": "28.18",
-      "change": "-0.59",
+      "price": "28.16",
+      "change": "-0.61",
       "unit": "USD"
     },
     {
@@ -126,6 +126,90 @@
       "price": "26.88",
       "change": "-0.62",
       "unit": "HKD"
+    },
+    {
+      "name": "台積電",
+      "price": "2290.00",
+      "change": "-180.00",
+      "unit": "TWD",
+      "code": "2330"
+    },
+    {
+      "name": "鴻海",
+      "price": "234.00",
+      "change": "-8.50",
+      "unit": "TWD",
+      "code": "2317"
+    },
+    {
+      "name": "聯發科",
+      "price": "3370.00",
+      "change": "-330.00",
+      "unit": "TWD",
+      "code": "2454"
+    },
+    {
+      "name": "台達電",
+      "price": "1740.00",
+      "change": "-165.00",
+      "unit": "TWD",
+      "code": "2308"
+    },
+    {
+      "name": "廣達",
+      "price": "325.50",
+      "change": "-26.50",
+      "unit": "TWD",
+      "code": "2382"
+    },
+    {
+      "name": "中華電",
+      "price": "138.00",
+      "change": "+2.00",
+      "unit": "TWD",
+      "code": "2412"
+    },
+    {
+      "name": "富邦金",
+      "price": "124.50",
+      "change": "-0.50",
+      "unit": "TWD",
+      "code": "2881"
+    },
+    {
+      "name": "中信金",
+      "price": "62.10",
+      "change": "-0.90",
+      "unit": "TWD",
+      "code": "2891"
+    },
+    {
+      "name": "國泰金",
+      "price": "94.30",
+      "change": "-3.00",
+      "unit": "TWD",
+      "code": "2882"
+    },
+    {
+      "name": "台塑化",
+      "price": "81.30",
+      "change": "+1.30",
+      "unit": "TWD",
+      "code": "6505"
+    },
+    {
+      "name": "中鋼",
+      "price": "18.65",
+      "change": "-0.15",
+      "unit": "TWD",
+      "code": "2002"
+    },
+    {
+      "name": "昶昕",
+      "price": "77.50",
+      "change": "-7.60",
+      "unit": "TWD",
+      "code": "8438"
     }
   ]
 }
