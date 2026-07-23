@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24 04:07",
+  "updated": "2026-07-24 05:17",
   "items": [
     {
       "name": "LME銅價",
@@ -9,26 +9,26 @@
     },
     {
       "name": "黃金",
-      "price": "4052.40",
-      "change": "-99.50",
+      "price": "4052.30",
+      "change": "-99.60",
       "unit": "美元/盎司"
     },
     {
       "name": "白銀",
-      "price": "57.81",
-      "change": "-2.49",
+      "price": "57.90",
+      "change": "-2.40",
       "unit": "美元/盎司"
     },
     {
       "name": "原油",
-      "price": "91.51",
-      "change": "+4.68",
+      "price": "92.36",
+      "change": "+5.53",
       "unit": "美元/桶"
     },
     {
       "name": "天然氣",
-      "price": "2.92",
-      "change": "+0.02",
+      "price": "2.91",
+      "change": "+0.01",
       "unit": "美元/MMBtu"
     },
     {
@@ -105,20 +105,20 @@
     },
     {
       "name": "Toyota 豐田",
-      "price": "176.88",
-      "change": "-3.06",
+      "price": "176.80",
+      "change": "-3.14",
       "unit": "USD"
     },
     {
       "name": "Ford 福特",
-      "price": "14.14",
-      "change": "-0.28",
+      "price": "14.15",
+      "change": "-0.27",
       "unit": "USD"
     },
     {
       "name": "Honda 本田",
-      "price": "28.01",
-      "change": "-0.52",
+      "price": "27.99",
+      "change": "-0.54",
       "unit": "USD"
     },
     {
