@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24 02:50",
+  "updated": "2026-07-24 04:07",
   "items": [
     {
       "name": "LME銅價",
@@ -9,20 +9,20 @@
     },
     {
       "name": "黃金",
-      "price": "4047.80",
-      "change": "-104.10",
+      "price": "4052.40",
+      "change": "-99.50",
       "unit": "美元/盎司"
     },
     {
       "name": "白銀",
-      "price": "57.75",
-      "change": "-2.55",
+      "price": "57.81",
+      "change": "-2.49",
       "unit": "美元/盎司"
     },
     {
       "name": "原油",
-      "price": "92.13",
-      "change": "+5.30",
+      "price": "91.51",
+      "change": "+4.68",
       "unit": "美元/桶"
     },
     {
@@ -63,62 +63,62 @@
     },
     {
       "name": "Apple",
-      "price": "320.20",
-      "change": "-5.69",
+      "price": "321.66",
+      "change": "-4.23",
       "unit": "USD"
     },
     {
       "name": "Microsoft 微軟",
-      "price": "381.88",
-      "change": "-8.46",
+      "price": "381.58",
+      "change": "-8.76",
       "unit": "USD"
     },
     {
       "name": "Google",
-      "price": "319.37",
-      "change": "-22.54",
+      "price": "318.34",
+      "change": "-23.57",
       "unit": "USD"
     },
     {
       "name": "Meta AI",
-      "price": "607.24",
-      "change": "-19.93",
+      "price": "606.10",
+      "change": "-21.07",
       "unit": "USD"
     },
     {
       "name": "特斯拉",
-      "price": "320.36",
-      "change": "-53.65",
+      "price": "319.69",
+      "change": "-54.32",
       "unit": "USD"
     },
     {
       "name": "NVIDIA 黃仁勳",
-      "price": "207.82",
-      "change": "-4.24",
+      "price": "208.76",
+      "change": "-3.30",
       "unit": "USD"
     },
     {
       "name": "QQQ AI ETF",
-      "price": "690.78",
-      "change": "-14.57",
+      "price": "691.96",
+      "change": "-13.39",
       "unit": "USD"
     },
     {
       "name": "Toyota 豐田",
-      "price": "176.49",
-      "change": "-3.45",
+      "price": "176.88",
+      "change": "-3.06",
       "unit": "USD"
     },
     {
       "name": "Ford 福特",
-      "price": "14.06",
-      "change": "-0.36",
+      "price": "14.14",
+      "change": "-0.28",
       "unit": "USD"
     },
     {
       "name": "Honda 本田",
-      "price": "27.99",
-      "change": "-0.54",
+      "price": "28.01",
+      "change": "-0.52",
       "unit": "USD"
     },
     {
