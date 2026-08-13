@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14 02:30",
+  "updated": "2026-08-14 03:37",
   "items": [
     {
       "name": "LME銅價",
@@ -9,20 +9,20 @@
     },
     {
       "name": "黃金",
-      "price": "4419.80",
-      "change": "-47.70",
+      "price": "4407.00",
+      "change": "-60.50",
       "unit": "美元/盎司"
     },
     {
       "name": "白銀",
-      "price": "64.97",
-      "change": "-0.73",
+      "price": "64.53",
+      "change": "-1.17",
       "unit": "美元/盎司"
     },
     {
       "name": "原油",
-      "price": "81.45",
-      "change": "-1.82",
+      "price": "81.22",
+      "change": "-2.05",
       "unit": "美元/桶"
     },
     {
@@ -63,32 +63,32 @@
     },
     {
       "name": "Apple",
-      "price": "303.41",
-      "change": "+1.16",
+      "price": "304.12",
+      "change": "+1.88",
       "unit": "USD"
     },
     {
       "name": "Microsoft 微軟",
-      "price": "493.49",
-      "change": "+1.06",
+      "price": "498.17",
+      "change": "+5.74",
       "unit": "USD"
     },
     {
       "name": "Google",
-      "price": "344.40",
-      "change": "+2.03",
+      "price": "343.89",
+      "change": "+1.52",
       "unit": "USD"
     },
     {
       "name": "Meta AI",
-      "price": "589.71",
-      "change": "+10.86",
+      "price": "593.78",
+      "change": "+14.93",
       "unit": "USD"
     },
     {
       "name": "特斯拉",
-      "price": "338.44",
-      "change": "+10.94",
+      "price": "339.02",
+      "change": "+11.51",
       "unit": "USD"
     },
     {
@@ -99,14 +99,14 @@
     },
     {
       "name": "QQQ AI ETF",
-      "price": "732.33",
-      "change": "+8.62",
+      "price": "732.63",
+      "change": "+8.93",
       "unit": "USD"
     },
     {
       "name": "Toyota 豐田",
-      "price": "188.21",
-      "change": "-0.01",
+      "price": "188.29",
+      "change": "+0.07",
       "unit": "USD"
     },
     {
@@ -117,8 +117,8 @@
     },
     {
       "name": "Honda 本田",
-      "price": "31.19",
-      "change": "-0.12",
+      "price": "31.20",
+      "change": "-0.11",
       "unit": "USD"
     },
     {
