@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20 11:05",
+  "updated": "2026-08-20 11:53",
   "items": [
     {
       "name": "LME銅價",
@@ -9,14 +9,14 @@
     },
     {
       "name": "黃金",
-      "price": "4549.60",
-      "change": "+4.30",
+      "price": "4554.70",
+      "change": "+9.40",
       "unit": "美元/盎司"
     },
     {
       "name": "白銀",
-      "price": "67.23",
-      "change": "+1.41",
+      "price": "67.16",
+      "change": "+1.33",
       "unit": "美元/盎司"
     },
     {
@@ -28,7 +28,7 @@
     {
       "name": "天然氣",
       "price": "2.79",
-      "change": "-0.03",
+      "change": "-0.02",
       "unit": "美元/MMBtu"
     },
     {
@@ -45,20 +45,20 @@
     },
     {
       "name": "小麥",
-      "price": "697.75",
-      "change": "+0.25",
+      "price": "699.50",
+      "change": "+2.00",
       "unit": "美分/蒲式耳"
     },
     {
       "name": "玉米",
-      "price": "501.25",
-      "change": "+3.25",
+      "price": "501.75",
+      "change": "+3.75",
       "unit": "美分/蒲式耳"
     },
     {
       "name": "大豆",
-      "price": "1238.75",
-      "change": "+1.50",
+      "price": "1239.50",
+      "change": "+2.25",
       "unit": "美分/蒲式耳"
     },
     {
@@ -123,8 +123,8 @@
     },
     {
       "name": "Xiaomi 小米",
-      "price": "28.22",
-      "change": "+0.78",
+      "price": "28.48",
+      "change": "+1.04",
       "unit": "HKD"
     },
     {
@@ -136,64 +136,64 @@
     },
     {
       "name": "鴻海",
-      "price": "246.00",
-      "change": "+1.00",
+      "price": "245.50",
+      "change": "+0.50",
       "unit": "TWD",
       "code": "2317"
     },
     {
       "name": "聯發科",
-      "price": "3725.00",
-      "change": "-120.00",
+      "price": "3710.00",
+      "change": "-135.00",
       "unit": "TWD",
       "code": "2454"
     },
     {
       "name": "台達電",
-      "price": "1720.00",
-      "change": "-45.00",
+      "price": "1715.00",
+      "change": "-50.00",
       "unit": "TWD",
       "code": "2308"
     },
     {
       "name": "廣達",
-      "price": "327.00",
-      "change": "-4.00",
+      "price": "326.50",
+      "change": "-4.50",
       "unit": "TWD",
       "code": "2382"
     },
     {
       "name": "中華電",
-      "price": "136.50",
-      "change": "+0.50",
+      "price": "137.00",
+      "change": "+1.00",
       "unit": "TWD",
       "code": "2412"
     },
     {
       "name": "富邦金",
-      "price": "127.00",
-      "change": "-1.50",
+      "price": "127.50",
+      "change": "-1.00",
       "unit": "TWD",
       "code": "2881"
     },
     {
       "name": "中信金",
-      "price": "62.40",
-      "change": "-2.50",
+      "price": "63.00",
+      "change": "-1.90",
       "unit": "TWD",
       "code": "2891"
     },
     {
       "name": "國泰金",
-      "price": "97.50",
-      "change": "-0.80",
+      "price": "97.80",
+      "change": "-0.50",
       "unit": "TWD",
       "code": "2882"
     },
     {
       "name": "台塑化",
-      "price": "73.20",
-      "change": "+3.00",
+      "price": "73.10",
+      "change": "+2.90",
       "unit": "TWD",
       "code": "6505"
     },
@@ -206,8 +206,8 @@
     },
     {
       "name": "昶昕",
-      "price": "65.50",
-      "change": "-1.00",
+      "price": "65.30",
+      "change": "-1.20",
       "unit": "TWD",
       "code": "8438"
     }
